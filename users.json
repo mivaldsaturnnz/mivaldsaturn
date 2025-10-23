@@ -33,5 +33,10 @@
     "username": "freya",
     "password": "$2a$10$jWmExZbDQYWoy8pJ9.NaROeJ1E0vJrY2oPtPFn8akETGDkZkDWc9i",
     "created_at": "2025-10-11T00:05:53.448Z"
+  },
+  {
+    "username": "vall",
+    "password": "$2a$10$wQd4h.HGVt3yAigMK6/31ekEXjoqbuZadQ65ceae833DUtCYpXVyq",
+    "created_at": "2025-10-23T14:31:47.316Z"
   }
 ]
